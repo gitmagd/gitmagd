@@ -16,8 +16,3 @@
 [![](https://komarev.com/ghpvc/?username=gitmagd&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## 📫 Contacto
-- 📧 Correo: gitmagdar@gmail.com
----
-✨ Gracias por visitar mi perfil. ¡Estoy abierto a colaborar en proyectos interesantes!
